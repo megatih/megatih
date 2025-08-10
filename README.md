@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @megatih
-- 👀 I’m interested in Java, Python, OpenCV and Game Programming
+- 👀 I’m interested in Java, Python, Swift, Go and Game Programming
 - 🌱 I’m currently learning all of the above! ;)
 - 💞️ I’m looking to collaborate on translation from English into Bahasa Malaysia (Malay)
 - 📫 How to reach me (by email): megatiskandar (at) gmail (dot) com
